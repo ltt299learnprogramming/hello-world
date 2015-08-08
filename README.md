@@ -12,3 +12,6 @@ Well, even though I've use git and GitHub for a half-year time, I still find it 
 [master] Well, add one more line. Now add the number to know which branch I worked on (2)
 
 [another-readme-edits] I would like to make the Graph in SourceTree more complex. (3)
+
+# Funny. 
+I reset a list of 22 commits into 2. And this line makes the third commit in GitHub history. What a amazing features (and dangerous also) "rebase" is!
